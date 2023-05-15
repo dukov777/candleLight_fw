@@ -14,7 +14,9 @@ Follow these steps:
 4. Install `can-utils`.
 5. Connect the CandleLight dongle to the USB port.
 6. Verify if it is part of this: 
+
 	<img src="https://github.com/dukov777/candleLight_fw/assets/10469747/aa76b02e-8074-4c31-a336-eb3746b32fe3" width="300"/>
+	
 7. Add it as shown in the image.
 8. Repeat the same process for the SLCAN device (STM32 STLink).
 
